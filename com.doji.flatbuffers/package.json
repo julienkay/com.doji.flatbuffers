@@ -1,0 +1,14 @@
+{
+  "name": "com.doji.flatbuffers",
+  "version": "1.0.0",
+  "displayName": "FlatBuffers",
+  "description": "FlatBuffers package for Unity",
+  
+  "author": {
+    "name": "Doji Technologies",
+    "email": "support@doji-tech.com",
+    "url": "https://www.doji-tech.com/"
+  },
+  "documentationUrl": "https://docs.doji-tech.com/com.doji.flatbuffers/"
+  
+}
