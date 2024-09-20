@@ -8,4 +8,4 @@ This Unity package wraps Google's official [FlatBuffers C# library](https://gith
 [OpenUPM] · [Documentation]
 
 [OpenUPM]: https://openupm.com/packages/com.doji.flatbuffers
-[Documentation]: [https://github.com/julienkay/com.doji.flatbuffers](https://flatbuffers.dev/flatbuffers_guide_use_c-sharp.html)
+[Documentation]: https://flatbuffers.dev/flatbuffers_guide_use_c-sharp.html
